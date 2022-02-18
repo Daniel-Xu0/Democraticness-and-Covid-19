@@ -1,8 +1,7 @@
-# Impact-of-Democracy-on-Covid-19
-Final Project/Presentation for Programming Course Taken at Northeastern University
+# A Nation's Democraticness and its Impact on Their Covid-19 Response
 
 This Repo Includes:
-- Covid-19 Data we Analyzed
+- Covid-19 Data analyzed
 - Democracy Indexes of Nations
 - Python Code, uses linear regression to identify trends between democracy and Covid-19
-- Final Presentation given in class
+- Presentation of Findings
